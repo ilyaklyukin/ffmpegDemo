@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?attr/colorControlHighlight">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="@dimen/corner_radius" />
+            <solid android:color="@color/primary" />
+        </shape>
+    </item>
+</selector>
+<!-- From: file:/D:/_dev/_projects/trainings/ffmpegDemo/app/src/main/res/drawable/material_button.xml -->
